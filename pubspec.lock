@@ -196,8 +196,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "fix/native-checkout-completion"
-      resolved-ref: a541f13e1df44cf4651eab0bb19f945a0665bd1d
+      ref: main
+      resolved-ref: "0d194d1c6ed22e9c6aff1a07ffc3d0097a431de9"
       url: "https://github.com/noriapay/noria-checkout-flutter.git"
     source: git
     version: "0.1.0-beta.1"
