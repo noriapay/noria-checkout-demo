@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "sku": "ARC-SPEAKER-01",
+      "name": "Arc Speaker",
+      "description": "Som compacto para qualquer ambiente.",
+      "unitAmount": 2490,
+      "artwork": "speaker",
+      "accent": "DCE9DF"
+    },
+    {
+      "sku": "HALO-HEADPHONES-01",
+      "name": "Halo Headphones",
+      "description": "Conforto leve, áudio presente.",
+      "unitAmount": 3990,
+      "artwork": "headphones",
+      "accent": "E5E0F0"
+    },
+    {
+      "sku": "LUME-LAMP-01",
+      "name": "Lume Mini",
+      "description": "Luz quente com intensidade suave.",
+      "unitAmount": 1790,
+      "artwork": "lamp",
+      "accent": "F2E4C9"
+    },
+    {
+      "sku": "ORBIT-CHARGER-01",
+      "name": "Orbit Charger",
+      "description": "Energia sem cabos à vista.",
+      "unitAmount": 1290,
+      "artwork": "charger",
+      "accent": "DDE8F1"
+    }
+  ]
+}
