@@ -34,7 +34,7 @@ dependencies:
   noria_checkout:
     git:
       url: https://github.com/noriapay/noria-checkout-flutter.git
-      ref: fix/native-checkout-completion
+      ref: main
 
 dev_dependencies:
   flutter_test:
